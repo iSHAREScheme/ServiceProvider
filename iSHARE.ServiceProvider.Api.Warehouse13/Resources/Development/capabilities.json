@@ -1,0 +1,48 @@
+{
+  "party_id": "EU.EORI.NL000000003",
+  "ishare_roles": [
+    {
+      "role": "Service Provider"
+    }
+  ],
+  "supported_versions": [
+    {
+      "version": "1.7",
+      "supported_features": [
+        {
+          "public": [
+            {
+              "id": "A51D413F-B3CC-477D-96C4-E37A9003BFE3",
+              "feature": "capabilities",
+              "description": "Retrieves iSHARE capabilities",
+              "url": "http://localhost:8600/capabilities",
+              "token_endpoint": "http://localhost:8600/connect/token"
+            },
+            {
+              "id": "49F6E662-F055-4AAC-96B2-E833FA5F5414",
+              "feature": "access token",
+              "description": "Obtains access token",
+              "url": "http://localhost:8600/connect/token"
+            },
+            {
+              "id": "05357B1C-A934-4BB2-A7CD-42948DA52379",
+              "feature": "boom access",
+              "description": "Request boom access based on user information",
+              "url": "http://localhost:8600/boom_access",
+              "token_endpoint": "http://localhost:8600/connect/token"
+            },
+            {
+              "id": "105D19C7-02B1-481F-8B98-0C0F2F5EBB4B",
+              "feature": "return client information",
+              "description": "Displays identity of client to which access token was issued",
+              "url": "http://localhost:8600/me",
+              "token_endpoint": "http://localhost:8600/connect/token"
+            }
+          ],
+          "restricted": [
+          ]
+        }
+      ]
+    }
+  ]
+}

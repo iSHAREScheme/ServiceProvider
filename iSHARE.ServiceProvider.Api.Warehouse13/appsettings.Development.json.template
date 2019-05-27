@@ -1,0 +1,27 @@
+﻿{
+  "Logging": {
+    "Console": {
+      "LogLevel": {
+        "Default": "Information"
+      }
+    }
+  },
+  "PartyDetails": {
+    "BaseUri": "http://localhost:61433/"
+  },
+  "ConnectionStrings": {
+    "Main": "<<<< SQL Server ConnectionString >>>>"
+  },
+  "SchemeOwner": {
+    "BaseUri": "http://localhost:43782/",
+    "ClientId": "EU.EORI.NL000000000"
+  },
+  "AuthorizationRegistry": {
+    "BaseUri": "http://localhost:61433/",
+    "ClientId": "EU.EORI.NL000000004"
+  },
+  "DigitalSigner": {
+    "PrivateKey": "<<<< RSA Private Key used for signing tokens >>>>",
+    "RawPublicKey": "<<<< Public Key used for validating tokens >>>>"
+  }
+}
