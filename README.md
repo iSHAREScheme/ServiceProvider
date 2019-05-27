@@ -16,7 +16,7 @@ The **Service Provider** is a role for which iSHARE adherence (iSHARE) is REQUIR
 
 - Install [.NET Core 2.1.4 Runtime](https://www.microsoft.com/net/download/dotnet-core/2.1) (or SDK 2.1.402 for development).
 
-### Clone or download theService Provider repository:
+### Clone or download the Service Provider repository:
 
 - `git clone https://github.com/iSHAREScheme/ServiceProvider.git` (or download zip)
 
