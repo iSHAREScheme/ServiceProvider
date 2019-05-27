@@ -58,7 +58,7 @@ Various test records are inserted from JSON files present here
 
 ### Certificate validation
 
-Certificate validation related service can be found [here](iSHARE.IdentityServer\CertificateValidationService.cs)
+Certificate validation related service can be found [here](iSHARE.IdentityServer/CertificateValidationService.cs)
 
 ### [Differences between the implementation and the official documentation](Differences.md)
 
