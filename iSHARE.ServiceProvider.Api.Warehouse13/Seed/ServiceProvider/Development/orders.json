@@ -1,0 +1,47 @@
+﻿[
+  {
+    "Id": "BDDC55A7-170A-44F8-B752-F8E721153A83",
+    "OrderId": "W13.181022.001",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Status": 4,
+    "Packages": "128",
+    "TruckbayPickup": "8"
+  },
+  {
+    "Id": "34F4F9D6-6A43-4DA0-90E7-37D0BB53D7C1",
+    "OrderId": "W13.181022.002",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Status": "COMPLETED",
+    "Packages": "64",
+    "TruckbayPickup": "7"
+  },
+  {
+    "Id": "1A61871B-81F8-4292-898E-926DEDD7D3AB",
+    "OrderId": "W13.181022.003",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Status": "COMPLETED",
+    "Packages": "73",
+    "TruckbayPickup": "6"
+  },
+  {
+    "Id": "EF7F3D9A-18D1-49D1-B1E4-1B7192ED033E",
+    "OrderId": "W13.181022.004",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Status": 5,
+    "Packages": "36"
+  },
+  {
+    "Id": "F961AA79-A552-4E33-ACF8-80E7805AB0F9",
+    "OrderId": "W13.181022.005",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Status": 1,
+    "Packages": "108"
+  },
+  {
+    "Id": "F0ABFB04-7B21-47F8-8A83-C55806AE0B36",
+    "OrderId": "W13.181022.006",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Status": 1,
+    "Packages": "27"
+  }
+]

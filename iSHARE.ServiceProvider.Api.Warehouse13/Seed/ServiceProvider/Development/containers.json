@@ -1,0 +1,114 @@
+﻿[
+  {
+    "Id": "FCF5D6A6-C312-43A8-9710-493615FF3F4D",
+    "ContainerId": "180621.ABC120",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195279",
+    "Weight": "20.71"
+  },
+  {
+    "Id": "26912F2B-4894-480B-B078-2A4C85592296",
+    "ContainerId": "180621.ABC121",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195281",
+    "Weight": "16.83"
+  },
+  {
+    "Id": "961F842C-DD6A-430D-ADD2-FDE0B2ED1D3A",
+    "ContainerId": "180621.ABC122",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195283",
+    "Weight": "17.94"
+  },
+  {
+    "Id": "21920D2B-737C-4D83-AA36-2C55EE0E2512",
+    "ContainerId": "180621.ABC123",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195285",
+    "Weight": "17.37"
+  },
+  {
+    "Id": "961BC6B1-E6A7-48AD-B1EC-D7B1BC284D52",
+    "ContainerId": "180621.ABC124",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195287",
+    "Weight": "20.01"
+  },
+  {
+    "Id": "A3B023B1-BD63-43C7-A383-1E167EF9C25C",
+    "ContainerId": "180621.ABC125",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195289",
+    "Weight": "18.67"
+  },
+  {
+    "Id": "E1A27A81-5906-46EF-9A03-7FA92305FE39",
+    "ContainerId": "180621.ABC126",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195291",
+    "Weight": "18.91"
+  },
+  {
+    "Id": "ABE5BFAE-1EC2-4EBA-A4DC-FA9813EE82EC",
+    "ContainerId": "180621.ABC127",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195293",
+    "Weight": "18.77"
+  },
+  {
+    "Id": "0811704C-3424-4F48-91E4-66DE755A7895",
+    "ContainerId": "180621.ABC128",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195295",
+    "Weight": "19.01"
+  },
+  {
+    "Id": "3E347AB2-DC88-4074-A8DC-88DDBF35F7D5",
+    "ContainerId": "180621.ABC129",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195297",
+    "Weight": "20.61"
+  },
+  {
+    "Id": "A1B28DB1-B6AF-46BD-A2DC-B4D5D39BE458",
+    "ContainerId": "180621.ABC130",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195299",
+    "Weight": "16.13"
+  },
+  {
+    "Id": "3982471D-2C27-4467-929B-0A5A6DF944D4",
+    "ContainerId": "180621.ABC131",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195301",
+    "Weight": "16.98"
+  },
+  {
+    "Id": "DB9D6A3B-4938-4EBF-8A05-A0FF631A43EA",
+    "ContainerId": "180621.ABC132",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195303",
+    "Weight": "18.71"
+  },
+  {
+    "Id": "49EFB89D-EC75-4EB2-94B4-0F2B10337CA7",
+    "ContainerId": "180621.ABC133",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195305",
+    "Weight": "20.41"
+  },
+  {
+    "Id": "8435EE1E-478D-4C79-871B-EDCBD3198394",
+    "ContainerId": "180621.ABC134",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195307",
+    "Weight": "17.39"
+  },
+  {
+    "Id": "A47B1318-9F23-4115-B238-6506A4D10998",
+    "ContainerId": "180621.ABC145",
+    "EntitledPartyId": "EU.EORI.NL000000005",
+    "Eta": "1540195309",
+    "Weight": "17.46"
+  }
+]
