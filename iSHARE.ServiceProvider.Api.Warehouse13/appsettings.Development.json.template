@@ -7,7 +7,7 @@
     }
   },
   "PartyDetails": {
-    "BaseUri": "http://localhost:61433/"
+    "BaseUri": "http://localhost:8600"
   },
   "ConnectionStrings": {
     "Main": "<<<< SQL Server ConnectionString >>>>"
