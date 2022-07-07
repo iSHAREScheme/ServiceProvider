@@ -14,7 +14,7 @@
     <PackageReference Include="IdentityServer4" Version="2.2.0" />
     <PackageReference Include="IdentityServer4.AccessTokenValidation" Version="2.6.0" />    
     <PackageReference Include="Microsoft.IdentityModel.Logging" Version="5.2.4" />
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.4" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.15" />
   </ItemGroup>
  
 
